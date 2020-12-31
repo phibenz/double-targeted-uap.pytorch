@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+config/config.py
+results/*
+.Trash*
+.idea/*
+
+*.npy
